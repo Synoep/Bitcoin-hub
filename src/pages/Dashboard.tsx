@@ -51,7 +51,7 @@ const Dashboard: React.FC = () => {
         <motion.div variants={itemVariants} className="mb-8">
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="text-3xl font-bold">Welcome back, Alex</h1>
+              <h1 className="text-3xl font-bold">Welcome back, Shivam</h1>
               <p className="text-gray-400 mt-1">Here's what's happening with your portfolio today.</p>
             </div>
             <div className="flex space-x-4">

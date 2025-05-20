@@ -40,7 +40,7 @@ const MainLayout: React.FC = () => {
       <div className="ml-64 flex-1">
         <Header 
           notifications={mockNotifications} 
-          userName="Alex Morgan"
+          userName="Shivam Tiwari"
         />
         
         <main className="mt-16 p-6">
